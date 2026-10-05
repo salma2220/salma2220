@@ -1,13 +1,13 @@
 # Hi, I'm Salma Awiwe 👋
 
-Programming & Web Development Graduate | Data Engineering | Data & BI | UI/UX
+Programming & Web Development Graduate | Data Engineering | Data Analytics | UI/UX
 
-I’m a programming and web development graduate interested in data engineering, data visualization, and user-centered digital experiences.
+I’m a programming and web development graduate interested in data engineering, data analytics, data visualization, and user-centered digital experiences.
 
 🛠️ Skills
 
 - Data & BI: Power BI, SQL, Microsoft Excel
-- Data Engineering: Python, Azure, Snowflake, Databricks
+- Data Engineering: Python, Azure
 - UI/UX: Figma, Wireframing, User Flows
 
 🚀 Featured Projects
@@ -15,6 +15,10 @@ I’m a programming and web development graduate interested in data engineering,
 FURAS – Saudi Tenders Intelligence Platform
 
 Data Engineering team project integrating tender data from multiple procurement sources and presenting technology-related opportunities through an interactive Power BI dashboard.
+
+Cultural Data Horizon
+
+Interactive Power BI dashboard visualizing and analyzing cultural heritage sites across Saudi Arabia.
 
 DataGap AI
 
