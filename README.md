@@ -1,14 +1,13 @@
 # Hi, I'm Salma Awiwe 👋
 
-Programming & Web Development Graduate | Data Engineering | Data Analytics | UI/UX
+Programming & Web Development Graduate | Data Engineering | Data Analytics | Power BI
 
-I’m a programming and web development graduate interested in data engineering, data analytics, data visualization, and user-centered digital experiences.
+I’m a programming and web development graduate interested in data engineering, data analytics, and data visualization.
 
 🛠️ Skills
 
 - Data & BI: Power BI, SQL, Microsoft Excel
 - Data Engineering: Python, Azure
-- UI/UX: Figma, Wireframing, User Flows
 
 🚀 Featured Projects
 
