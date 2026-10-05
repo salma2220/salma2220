@@ -1,4 +1,4 @@
-# Hi, I'm Salma Awiwe
+# Hi, I'm Salma Awiwe 👋
 
 Programming & Web Development Graduate | Data Engineering | Data Analytics | Power BI
 
@@ -9,7 +9,7 @@ Skills
 - Data & BI: Power BI, SQL, Microsoft Excel
 - Data Engineering: Python, Azure
 
-Featured Projects
+Projects
 
 FURAS – Saudi Tenders Intelligence Platform
 
@@ -23,16 +23,16 @@ DataGap AI
 
 AI-powered platform that analyzes data readiness, identifies data gaps, and provides actionable recommendations for data-driven decision-making.
 
-Power BI Dashboards
+📊 Power BI Dashboards
 
 Developed interactive dashboards to analyze data, track KPIs, and present insights through clear and effective visualizations.
 
-UI/UX Portfolio
+🎨 UI/UX Portfolio
 
 View my UI/UX projects on Behance:
 https://www.behance.net/salmaowiwy
 
-Connect with me
+📫 Connect with me
 
 LinkedIn: https://www.linkedin.com/in/salma-awiwe
 
