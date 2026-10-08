@@ -4,19 +4,19 @@
 
 ### IT Professional · Data & Analytics · Power BI · Data Engineering
 
-**Open to Opportunities**
+**OPEN TO OPPORTUNITIES**
 
-[🌐 Portfolio](https://salma2220.github.io/portfolio/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/salma-awiwe)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[🎨 Behance](https://www.behance.net/salmaowiwy)
+[ 🌐 Portfolio ](https://salma2220.github.io/portfolio/)
+&nbsp;&nbsp; · &nbsp;&nbsp;
+[ 💼 LinkedIn ](https://www.linkedin.com/in/salma-awiwe)
+&nbsp;&nbsp; · &nbsp;&nbsp;
+[ 🎨 Behance ](https://www.behance.net/salmaowiwy)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
 I'm an IT professional interested in **Data Analytics, Data Engineering, Power BI, and Data Visualization**.
 
@@ -26,26 +26,53 @@ I enjoy turning data into clear insights and building practical technology solut
 
 ## ⚡ Tech Stack
 
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
 ### 📊 Data & Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-214B73?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/Excel-26734D?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ☁️ Data Engineering
 
 ![Python](https://img.shields.io/badge/Python-315B78?style=flat-square&logo=python&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
+
 ![Databricks](https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white)
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-32758A?style=flat-square&logo=snowflake&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 💻 Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-806F19?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white)
+
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-51437D?style=flat-square&logo=.net&logoColor=white)
+
 ![SAP ERP](https://img.shields.io/badge/SAP_ERP-176F91?style=flat-square&logo=sap&logoColor=white)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -121,13 +148,15 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 
 ## ✦ Let's Connect
 
-**Open to opportunities in IT · Data Analytics · Data Engineering · Power BI**
+**IT · Data Analytics · Data Engineering · Power BI**
 
 [🌐 Portfolio](https://salma2220.github.io/portfolio/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 [💼 LinkedIn](https://www.linkedin.com/in/salma-awiwe)
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 [🎨 Behance](https://www.behance.net/salmaowiwy)
+
+<br>
 
 📧 **salma.awiwe@gmail.com**
 
