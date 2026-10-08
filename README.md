@@ -10,7 +10,7 @@
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="mailto:salma.awiwe@gmail.com">📧 Email</a>
+📧 salma.awiwe@gmail.com
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://drive.google.com/drive/folders/1ShKPcmFX_qC6Ti8iMajwYIqiJ491EH3_?usp=sharing">📄 CV</a>
 
@@ -183,7 +183,7 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="mailto:salma.awiwe@gmail.com">📧 Email</a>
+📧 salma.awiwe@gmail.com
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://drive.google.com/drive/folders/1ShKPcmFX_qC6Ti8iMajwYIqiJ491EH3_?usp=sharing">📄 CV</a>
 
