@@ -4,21 +4,11 @@
 
 <br><br>
 
-<a href="https://salma2220.github.io/portfolio/">
-  🌐 Portfolio
-</a>
-
+<a href="https://salma2220.github.io/portfolio/">🌐 Portfolio</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/salma-awiwe">
-  💼 LinkedIn
-</a>
-
+<a href="https://www.linkedin.com/in/salma-awiwe">💼 LinkedIn</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-
-<a href="https://www.behance.net/salmaowiwy">
-  🎨 Behance
-</a>
+<a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
 
 </div>
 
@@ -98,6 +88,7 @@ My interests include **Data Analytics, Data Engineering, Power BI, and Data Visu
 Data Engineering project integrating tender data from multiple procurement sources and presenting technology opportunities through an interactive Power BI dashboard.
 
 **My contribution**
+
 - Tender data collection
 - Azure Bronze layer
 - Power BI dashboard
@@ -156,15 +147,19 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 
 <table>
 <tr>
+
 <td align="center">📊 Data Analytics</td>
 <td align="center">📈 Power BI</td>
 <td align="center">☁️ Data Engineering</td>
+
 </tr>
 
 <tr>
+
 <td align="center">🔄 Data Integration</td>
 <td align="center">🗄️ SQL</td>
 <td align="center">🏢 Enterprise Systems</td>
+
 </tr>
 </table>
 
@@ -178,24 +173,12 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 
 <br><br>
 
-<a href="https://salma2220.github.io/portfolio/">
-🌐 Portfolio
-</a>
-
+<a href="https://salma2220.github.io/portfolio/">🌐 Portfolio</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/salma-awiwe">
-💼 LinkedIn
-</a>
-
+<a href="https://www.linkedin.com/in/salma-awiwe">💼 LinkedIn</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-
-<a href="https://www.behance.net/salmaowiwy">
-🎨 Behance
-</a>
-
-<br><br>
-
-📧 <strong>salma.awiwe@gmail.com</strong>
+<a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="mailto:salma.awiwe@gmail.com">📧 Email</a>
 
 </div>
