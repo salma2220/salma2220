@@ -1,22 +1,26 @@
 <div align="center">
 
-# ✦ SALMA AWIWE
+<img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
 
-### IT Professional · Data & Analytics · Power BI · Data Engineering
+<br><br>
 
-**OPEN TO OPPORTUNITIES**
-
-[ 🌐 Portfolio ](https://salma2220.github.io/portfolio/)
+<a href="https://salma2220.github.io/portfolio/">
+  🌐 Portfolio
+</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-[ 💼 LinkedIn ](https://www.linkedin.com/in/salma-awiwe)
+<a href="https://www.linkedin.com/in/salma-awiwe">
+  💼 LinkedIn
+</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-[ 🎨 Behance ](https://www.behance.net/salmaowiwy)
+<a href="https://www.behance.net/salmaowiwy">
+  🎨 Behance
+</a>
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
 I'm an IT professional interested in **Data Analytics, Data Engineering, Power BI, and Data Visualization**.
 
@@ -90,6 +94,7 @@ I enjoy turning data into clear insights and building practical technology solut
 Data Engineering project integrating tender data from multiple procurement sources and presenting technology opportunities through an interactive Power BI dashboard.
 
 **My contribution**
+
 - Tender data collection
 - Azure Bronze layer
 - Power BI dashboard
@@ -150,14 +155,16 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 
 **IT · Data Analytics · Data Engineering · Power BI**
 
-[🌐 Portfolio](https://salma2220.github.io/portfolio/)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/salma-awiwe)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[🎨 Behance](https://www.behance.net/salmaowiwy)
-
 <br>
 
-📧 **salma.awiwe@gmail.com**
+<a href="https://salma2220.github.io/portfolio/">🌐 Portfolio</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/salma-awiwe">💼 LinkedIn</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
+
+<br><br>
+
+📧 <strong>salma.awiwe@gmail.com</strong>
 
 </div>
