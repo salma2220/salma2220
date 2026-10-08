@@ -1,170 +1,137 @@
-<div align="center">
-
-<img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
-
-<br><br>
-
-<a href="https://salma2220.github.io/portfolio/">
-  🌐 Portfolio
-</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/salma-awiwe">
-  💼 LinkedIn
-</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.behance.net/salmaowiwy">
-  🎨 Behance
-</a>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm an IT professional interested in **Data Analytics, Data Engineering, Power BI, and Data Visualization**.
-
-I enjoy turning data into clear insights and building practical technology solutions.
-
----
-
-## ⚡ Tech Stack
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 📊 Data & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-214B73?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Excel-26734D?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁️ Data Engineering
-
-![Python](https://img.shields.io/badge/Python-315B78?style=flat-square&logo=python&logoColor=white)
-
-![Azure](https://img.shields.io/badge/Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
-
-![Databricks](https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-32758A?style=flat-square&logo=snowflake&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💻 Development
-
-![JavaScript](https://img.shields.io/badge/JavaScript-806F19?style=flat-square&logo=javascript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white)
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-51437D?style=flat-square&logo=.net&logoColor=white)
-
-![SAP ERP](https://img.shields.io/badge/SAP_ERP-176F91?style=flat-square&logo=sap&logoColor=white)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔵 FURAS
-
-**Tender & RFP Opportunities**
-
-Data Engineering project integrating tender data from multiple procurement sources and presenting technology opportunities through an interactive Power BI dashboard.
-
-**My contribution**
-
-- Tender data collection
-- Azure Bronze layer
-- Power BI dashboard
-- KPIs & interactive visualizations
-
-**[→ View Project](https://github.com/salma2220?tab=projects)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 DataGap AI
-
-**Data Readiness Assistant**
-
-AI-powered solution that analyzes data readiness, identifies data gaps, and provides actionable recommendations.
-
-🏆 **Second Place — KANZ AI Hackathon**
-
-**[→ View Project](https://github.com/salma2220?tab=projects)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Insight AI
-
-**AI & Security Prediction**
-
-UI/UX design and system flow contribution for an AI-based stolen vehicle detection concept.
-
-**[→ View on Behance](https://www.behance.net/salmaowiwy)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Cultural Data Horizon
-
-Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heritage data.
-
-**[→ View Project](https://github.com/salma2220?tab=projects)**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ✦ Let's Connect
-
-**IT · Data Analytics · Data Engineering · Power BI**
-
-<br>
-
-<a href="https://salma2220.github.io/portfolio/">🌐 Portfolio</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/salma-awiwe">💼 LinkedIn</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
-
-<br><br>
-
-📧 <strong>salma.awiwe@gmail.com</strong>
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+
+<defs>
+  <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0b1424"/>
+    <stop offset="50%" stop-color="#182a43"/>
+    <stop offset="100%" stop-color="#0b1220"/>
+  </linearGradient>
+
+  <radialGradient id="blueGlow">
+    <stop offset="0%" stop-color="#6f9fff" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#6f9fff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<!-- Background -->
+<rect x="0" y="0" width="1200" height="360" rx="24" fill="url(#background)"/>
+
+<!-- Soft glow -->
+<circle cx="180" cy="120" r="230" fill="url(#blueGlow)"/>
+<circle cx="1050" cy="250" r="250" fill="url(#blueGlow)"/>
+
+<!-- Subtle grid -->
+<g stroke="#9bbcf0" stroke-opacity="0.06" fill="none">
+  <line x1="0" y1="60" x2="1200" y2="60"/>
+  <line x1="0" y1="120" x2="1200" y2="120"/>
+  <line x1="0" y1="180" x2="1200" y2="180"/>
+  <line x1="0" y1="240" x2="1200" y2="240"/>
+  <line x1="0" y1="300" x2="1200" y2="300"/>
+
+  <line x1="100" y1="0" x2="100" y2="360"/>
+  <line x1="200" y1="0" x2="200" y2="360"/>
+  <line x1="300" y1="0" x2="300" y2="360"/>
+  <line x1="400" y1="0" x2="400" y2="360"/>
+  <line x1="500" y1="0" x2="500" y2="360"/>
+  <line x1="600" y1="0" x2="600" y2="360"/>
+  <line x1="700" y1="0" x2="700" y2="360"/>
+  <line x1="800" y1="0" x2="800" y2="360"/>
+  <line x1="900" y1="0" x2="900" y2="360"/>
+  <line x1="1000" y1="0" x2="1000" y2="360"/>
+  <line x1="1100" y1="0" x2="1100" y2="360"/>
+</g>
+
+<!-- Technology lines -->
+<g fill="none" stroke-linecap="round">
+
+  <polyline
+    points="0,285 120,225 240,260 360,175 480,205 600,130 720,155 840,90 960,125 1080,75 1200,110"
+    stroke="#79a9ff"
+    stroke-opacity="0.35"
+    stroke-width="2"/>
+
+  <polyline
+    points="0,320 130,275 260,300 390,230 520,250 650,185 780,215 910,145 1040,175 1200,125"
+    stroke="#b49cff"
+    stroke-opacity="0.18"
+    stroke-width="2"/>
+
+</g>
+
+<!-- Network points -->
+<g fill="#8bb8ff">
+
+  <circle cx="120" cy="225" r="4"/>
+  <circle cx="360" cy="175" r="4"/>
+  <circle cx="600" cy="130" r="4"/>
+  <circle cx="840" cy="90" r="4"/>
+  <circle cx="1080" cy="75" r="4"/>
+
+</g>
+
+<!-- Main text -->
+<text
+  x="70"
+  y="135"
+  fill="#b9cbe6"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="20"
+  letter-spacing="4">
+  IT PROFESSIONAL
+</text>
+
+<text
+  x="68"
+  y="200"
+  fill="#ffffff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="58"
+  font-weight="bold">
+  SALMA AWIWE
+</text>
+
+<text
+  x="72"
+  y="242"
+  fill="#c4d2e6"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="20">
+  Data &amp; Analytics · Power BI · Data Engineering
+</text>
+
+<text
+  x="72"
+  y="280"
+  fill="#91a8c7"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="16">
+  Turning data into meaningful insights.
+</text>
+
+<!-- Open to opportunities -->
+<rect
+  x="900"
+  y="55"
+  width="225"
+  height="42"
+  rx="21"
+  fill="#182b45"
+  stroke="#7ea7dc"
+  stroke-opacity="0.45"/>
+
+<circle
+  cx="927"
+  cy="76"
+  r="6"
+  fill="#8fb8ff"/>
+
+<text
+  x="944"
+  y="82"
+  fill="#d8e5f7"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  OPEN TO OPPORTUNITIES
+</text>
+
+</svg>
