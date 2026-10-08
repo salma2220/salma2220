@@ -1,39 +1,154 @@
-# Hi, I'm Salma Awiwe 👋
+<div align="center">
 
-Programming & Web Development Graduate | Data Engineering | Data Analytics | Power BI
+# 👋 Hi, I'm Salma Awiwe
 
-I’m a programming and web development graduate interested in data engineering, data analytics, and data visualization.
+### IT Professional | Data & Analytics | Power BI
 
-Skills
+💼 **Open to Opportunities**
 
-- Data & BI: Power BI, SQL, Microsoft Excel
-- Data Engineering: Python, Azure
+<br>
 
-Projects
+<a href="YOUR_CV_LINK">
+  <img src="https://img.shields.io/badge/📄%20View%20CV-173B7A?style=for-the-badge" />
+</a>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_BEHANCE_LINK">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
 
-FURAS – Saudi Tenders Intelligence Platform
+</div>
 
-Data Engineering team project integrating tender data from multiple procurement sources and presenting technology-related opportunities through an interactive Power BI dashboard.
+---
 
-Cultural Data Horizon
+## 👩🏻‍💻 About Me
 
-Interactive Power BI dashboard visualizing and analyzing cultural heritage sites across Saudi Arabia.
+I’m an IT professional with experience in **enterprise systems, ERP support, data operations, and reporting** within regulated and industrial environments.
 
-DataGap AI
+I’m interested in **Data Analytics, Data Engineering, Data Visualization, and Power BI**, with hands-on experience working on data-driven projects and interactive dashboards.
 
-AI-powered platform that analyzes data readiness, identifies data gaps, and provides actionable recommendations for data-driven decision-making.
+---
 
-📊 Power BI Dashboards
+## 🛠️ Skills
 
-Developed interactive dashboards to analyze data, track KPIs, and present insights through clear and effective visualizations.
+### 📊 Data & Analytics
+`Power BI` `SQL` `Microsoft Excel` `Data Analytics` `Data Visualization`
 
-🎨 UI/UX Portfolio
+### ☁️ Data Engineering
+`Data Engineering` `Data Integration` `Data Quality` `Microsoft Azure`
 
-View my UI/UX projects on Behance:
-https://www.behance.net/salmaowiwy
+### 🏢 IT & Enterprise Systems
+`SAP ERP` `SFDA RSD System` `System Monitoring` `IT Application Support`
 
-📫 Connect with me
+### 🎨 AI & UI/UX
+`Artificial Intelligence` `Prompt Engineering` `UI/UX Design` `Figma` `Wireframing` `User Flows`
 
-LinkedIn: https://www.linkedin.com/in/salma-awiwe
+---
 
-Behance: https://www.behance.net/salmaowiwy
+## 🚀 Featured Projects
+
+### 🔵 FURAS — Tender & RFP Opportunities
+
+Data Engineering team project integrating tender data from multiple procurement sources and presenting technology-related opportunities through an interactive **Power BI dashboard**.
+
+**My Contribution:**  
+Sourced and collected technology-related tender data, uploaded data to the Azure Bronze layer, and developed the Power BI dashboard using Gold-layer data.
+
+**Skills:**  
+`Data Engineering` `Power BI` `Azure` `Data Integration` `Data Analytics`
+
+---
+
+### 🤖 DataGap AI — Data Readiness Assistant
+
+An AI-powered platform that analyzes **data readiness**, identifies data gaps, and provides actionable recommendations for data-driven decision-making.
+
+**Skills:**  
+`Artificial Intelligence` `Prompt Engineering` `Problem Solving`
+
+---
+
+### 🎨 Insight AI — AI & Security Prediction
+
+AI-powered project developed during the **Absher Tuwaiq Hackathon – AI & Security Prediction Track**.
+
+**My Role:**  
+UI/UX Designer & System Flow Contributor
+
+Designed user interfaces and user flows with a focus on usability and creating a seamless user experience.
+
+**Skills:**  
+`UI/UX Design` `Figma` `Wireframing` `User Flows`
+
+---
+
+### 📍 Cultural Data Horizon
+
+Interactive **Power BI dashboard** developed during the Cultural Data Gathering Hackathon to visualize and analyze Saudi cultural heritage sites.
+
+**Skills:**  
+`Power BI` `Data Visualization` `Data Analytics` `Microsoft Excel`
+
+---
+
+## 💼 Experience
+
+**Computer Systems Technician – Tamheer Trainee**  
+Tabuk Pharmaceuticals Manufacturing Company  
+*Dec 2024 – Jun 2025*
+
+**IT Support Trainee**  
+Saudi Aramco – Berri Gas Plant  
+*Jun 2023 – Aug 2023*
+
+**Web Developer Trainee**  
+King Fahad Medical City  
+*Mar 2023 – May 2023*
+
+---
+
+## 🎓 Education
+
+**Diploma in Programming and Web Development Technology**  
+Technical College – Al-Ahsa
+
+**Data Engineering Bootcamp**  
+Saudi Digital Academy
+
+---
+
+## 📜 Certifications
+
+- MCIT Jr Data Scientist – INE
+- Certified Software Technician – Saudi Council of Engineers
+- Information Security Essentials – Saudi Aramco
+- IT Essentials: PC Hardware and Software – Cisco Networking Academy
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_BEHANCE_LINK">
+  <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="YOUR_CV_LINK">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-173B7A?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
