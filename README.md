@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
+
+</div>
+
+
+<div align="center">
+
 # ✦ SALMA AWIWE
 
 ### IT Professional · Data & Analytics · Power BI · Data Engineering
