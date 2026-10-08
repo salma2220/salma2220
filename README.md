@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Salma Awiwe">
+# ✦ SALMA AWIWE
 
-<br><br>
+### IT Professional · Data & Analytics · Power BI · Data Engineering
+
+`OPEN TO OPPORTUNITIES`
+
+<br>
 
 <a href="https://salma2220.github.io/portfolio/">
-  🌐 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-173B7A?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-
-&nbsp;&nbsp; · &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/salma-awiwe">
-  💼 LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-214B73?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;&nbsp; · &nbsp;&nbsp;
-
 <a href="https://www.behance.net/salmaowiwy">
-  🎨 Behance
+<img src="https://img.shields.io/badge/Behance-4A456B?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 
 </div>
@@ -41,11 +41,11 @@ I enjoy turning data into clear insights and building practical technology solut
 
 ### 📊 Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white">
 
-![SQL](https://img.shields.io/badge/SQL-214B73?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-214B73?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 
-![Excel](https://img.shields.io/badge/Excel-26734D?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://img.shields.io/badge/Excel-26734D?style=flat-square&logo=microsoftexcel&logoColor=white">
 
 </td>
 
@@ -53,13 +53,13 @@ I enjoy turning data into clear insights and building practical technology solut
 
 ### ☁️ Data Engineering
 
-![Python](https://img.shields.io/badge/Python-315B78?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-315B78?style=flat-square&logo=python&logoColor=white">
 
-![Azure](https://img.shields.io/badge/Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white">
 
-![Databricks](https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white)
+<img src="https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white">
 
-![Snowflake](https://img.shields.io/badge/Snowflake-32758A?style=flat-square&logo=snowflake&logoColor=white)
+<img src="https://img.shields.io/badge/Snowflake-32758A?style=flat-square&logo=snowflake&logoColor=white">
 
 </td>
 
@@ -67,15 +67,15 @@ I enjoy turning data into clear insights and building practical technology solut
 
 ### 💻 Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-806F19?style=flat-square&logo=javascript&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-806F19?style=flat-square&logo=javascript&logoColor=white">
 
-![HTML5](https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white">
 
-![CSS3](https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white">
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-51437D?style=flat-square&logo=.net&logoColor=white)
+<img src="https://img.shields.io/badge/ASP.NET-51437D?style=flat-square&logo=.net&logoColor=white">
 
-![SAP ERP](https://img.shields.io/badge/SAP_ERP-176F91?style=flat-square&logo=sap&logoColor=white)
+<img src="https://img.shields.io/badge/SAP_ERP-176F91?style=flat-square&logo=sap&logoColor=white">
 
 </td>
 
@@ -98,13 +98,14 @@ I enjoy turning data into clear insights and building practical technology solut
 Data Engineering project integrating tender data from multiple procurement sources and presenting technology opportunities through an interactive Power BI dashboard.
 
 **My contribution**
-
 - Tender data collection
 - Azure Bronze layer
 - Power BI dashboard
 - KPIs & interactive visualizations
 
-**[→ View Project](https://github.com/salma2220?tab=projects)**
+<a href="https://github.com/salma2220?tab=projects">
+View Project →
+</a>
 
 </td>
 
@@ -118,7 +119,9 @@ AI-powered solution that analyzes data readiness, identifies data gaps, and prov
 
 🏆 **Second Place — KANZ AI Hackathon**
 
-**[→ View Project](https://github.com/salma2220?tab=projects)**
+<a href="https://github.com/salma2220?tab=projects">
+View Project →
+</a>
 
 </td>
 
@@ -134,7 +137,9 @@ AI-powered solution that analyzes data readiness, identifies data gaps, and prov
 
 UI/UX design and system flow contribution for an AI-based stolen vehicle detection concept.
 
-**[→ View on Behance](https://www.behance.net/salmaowiwy)**
+<a href="https://www.behance.net/salmaowiwy">
+View on Behance →
+</a>
 
 </td>
 
@@ -144,10 +149,30 @@ UI/UX design and system flow contribution for an AI-based stolen vehicle detecti
 
 Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heritage data.
 
-**[→ View Project](https://github.com/salma2220?tab=projects)**
+<a href="https://github.com/salma2220?tab=projects">
+View Project →
+</a>
 
 </td>
 
+</tr>
+</table>
+
+---
+
+## 💡 What I Work With
+
+<table>
+<tr>
+<td>📊 Data Analytics</td>
+<td>📈 Power BI</td>
+<td>☁️ Data Engineering</td>
+</tr>
+
+<tr>
+<td>🔄 Data Integration</td>
+<td>🗄️ SQL</td>
+<td>🏢 Enterprise Systems</td>
 </tr>
 </table>
 
@@ -159,20 +184,26 @@ Interactive Power BI dashboard for analyzing and visualizing Saudi cultural heri
 
 **IT · Data Analytics · Data Engineering · Power BI**
 
-<br>
+<br><br>
 
-<a href="https://salma2220.github.io/portfolio/">🌐 Portfolio</a>
+<a href="https://salma2220.github.io/portfolio/">
+Portfolio
+</a>
 
-&nbsp;&nbsp; · &nbsp;&nbsp;
+&nbsp; · &nbsp;
 
-<a href="https://www.linkedin.com/in/salma-awiwe">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/salma-awiwe">
+LinkedIn
+</a>
 
-&nbsp;&nbsp; · &nbsp;&nbsp;
+&nbsp; · &nbsp;
 
-<a href="https://www.behance.net/salmaowiwy">🎨 Behance</a>
+<a href="https://www.behance.net/salmaowiwy">
+Behance
+</a>
 
 <br><br>
 
-📧 <strong>salma.awiwe@gmail.com</strong>
+📧 **salma.awiwe@gmail.com**
 
 </div>
