@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="./github-banner.png" width="100%" alt="Salma Awiwe">
+
+</div>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
 
 <defs>
