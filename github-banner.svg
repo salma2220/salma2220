@@ -1,138 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="360"
-     viewBox="0 0 1200 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#14243b"/>
 
-  <!-- Background -->
-  <rect width="1200" height="360" fill="#101b2d"/>
-
-  <!-- Soft panels -->
-  <rect x="0" y="0" width="1200" height="360" fill="#14243b"/>
-
-  <!-- Subtle grid -->
   <g stroke="#8fb7e8" stroke-width="1" opacity="0.08">
-
-    <line x1="0" y1="60" x2="1200" y2="60"/>
-    <line x1="0" y1="120" x2="1200" y2="120"/>
-    <line x1="0" y1="180" x2="1200" y2="180"/>
-    <line x1="0" y1="240" x2="1200" y2="240"/>
-    <line x1="0" y1="300" x2="1200" y2="300"/>
-
-    <line x1="100" y1="0" x2="100" y2="360"/>
-    <line x1="200" y1="0" x2="200" y2="360"/>
-    <line x1="300" y1="0" x2="300" y2="360"/>
-    <line x1="400" y1="0" x2="400" y2="360"/>
-    <line x1="500" y1="0" x2="500" y2="360"/>
-    <line x1="600" y1="0" x2="600" y2="360"/>
-    <line x1="700" y1="0" x2="700" y2="360"/>
-    <line x1="800" y1="0" x2="800" y2="360"/>
-    <line x1="900" y1="0" x2="900" y2="360"/>
-    <line x1="1000" y1="0" x2="1000" y2="360"/>
-    <line x1="1100" y1="0" x2="1100" y2="360"/>
-
+    <path d="M0 60H1200 M0 120H1200 M0 180H1200 M0 240H1200 M0 300H1200"/>
+    <path d="M100 0V360 M200 0V360 M300 0V360 M400 0V360 M500 0V360 M600 0V360 M700 0V360 M800 0V360 M900 0V360 M1000 0V360 M1100 0V360"/>
   </g>
 
-  <!-- Technology lines -->
   <g fill="none" stroke-linecap="round">
-
-    <polyline
-      points="0,285 120,230 240,260 360,180 480,210 600,140 720,165 840,105 960,135 1080,90 1200,120"
-      stroke="#6fa3e8"
-      stroke-width="2"
-      opacity="0.55"/>
-
-    <polyline
-      points="0,315 130,275 260,295 390,235 520,255 650,195 780,220 910,155 1040,180 1200,135"
-      stroke="#8f82d8"
-      stroke-width="2"
-      opacity="0.30"/>
-
+    <polyline points="0,285 120,230 240,260 360,180 480,210 600,140 720,165 840,105 960,135 1080,90 1200,120" stroke="#6fa3e8" stroke-width="2" opacity="0.55"/>
+    <polyline points="0,315 130,275 260,295 390,235 520,255 650,195 780,220 910,155 1040,180 1200,135" stroke="#8f82d8" stroke-width="2" opacity="0.3"/>
   </g>
 
-  <!-- Network points -->
   <g fill="#8fb7e8">
-
     <circle cx="120" cy="230" r="4"/>
     <circle cx="360" cy="180" r="4"/>
     <circle cx="600" cy="140" r="4"/>
     <circle cx="840" cy="105" r="4"/>
     <circle cx="1080" cy="90" r="4"/>
-
   </g>
 
-  <!-- Small connecting lines -->
-  <g stroke="#8fb7e8" stroke-width="1" opacity="0.25">
+  <text x="70" y="110" fill="#b8c9df" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">IT GRADUATE</text>
+  <text x="68" y="172" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="bold">SALMA AWIWE</text>
 
-    <line x1="120" y1="230" x2="360" y2="180"/>
-    <line x1="360" y1="180" x2="600" y2="140"/>
-    <line x1="600" y1="140" x2="840" y2="105"/>
-    <line x1="840" y1="105" x2="1080" y2="90"/>
+  <text x="72" y="212" fill="#c2d1e4" font-family="Arial, Helvetica, sans-serif" font-size="18">Data Analytics · Data Engineering</text>
+  <text x="72" y="240" fill="#c2d1e4" font-family="Arial, Helvetica, sans-serif" font-size="18">UI/UX Design · Artificial Intelligence</text>
+  <text x="72" y="276" fill="#91a7c4" font-family="Arial, Helvetica, sans-serif" font-size="15">Turning ideas into practical digital solutions.</text>
 
+  <rect x="900" y="45" width="225" height="42" rx="21" fill="#1b304c" stroke="#759bc9" stroke-width="1"/>
+  <circle cx="927" cy="66" r="6" fill="#8fb7e8"/>
+  <text x="944" y="71" fill="#d7e3f2" font-family="Arial, Helvetica, sans-serif" font-size="12">OPEN TO OPPORTUNITIES</text>
+
+  <path d="M72 310H1128" stroke="#759bc9" stroke-width="1" opacity="0.45"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#d7e3f2">
+    <text x="72" y="337">PORTFOLIO</text>
+    <text x="192" y="337">LINKEDIN</text>
+    <text x="310" y="337">BEHANCE</text>
+    <text x="416" y="337">EMAIL</text>
   </g>
 
-  <!-- Title -->
-  <text
-    x="70"
-    y="125"
-    fill="#b8c9df"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="19"
-    letter-spacing="4">
-    IT PROFESSIONAL
-  </text>
-
-  <text
-    x="68"
-    y="195"
-    fill="#ffffff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="56"
-    font-weight="bold">
-    SALMA AWIWE
-  </text>
-
-  <text
-    x="72"
-    y="238"
-    fill="#c2d1e4"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="20">
-    Data &amp; Analytics · Power BI · Data Engineering
-  </text>
-
-  <text
-    x="72"
-    y="275"
-    fill="#91a7c4"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="16">
-    Turning data into meaningful insights.
-  </text>
-
-  <!-- Status -->
-  <rect
-    x="900"
-    y="55"
-    width="225"
-    height="42"
-    rx="21"
-    fill="#1b304c"
-    stroke="#759bc9"
-    stroke-width="1"/>
-
-  <circle
-    cx="927"
-    cy="76"
-    r="6"
-    fill="#8fb7e8"/>
-
-  <text
-    x="944"
-    y="82"
-    fill="#d7e3f2"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="13">
-    OPEN TO OPPORTUNITIES
-  </text>
-
+  <g fill="#8fb7e8">
+    <circle cx="174" cy="332" r="2"/>
+    <circle cx="292" cy="332" r="2"/>
+    <circle cx="398" cy="332" r="2"/>
+  </g>
 </svg>
