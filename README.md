@@ -9,7 +9,7 @@
 <a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
 <a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; · &nbsp;
-<a href="mailto:salma.awiwe@gmail.com">Email</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=salma.awiwe@gmail.com" target="_blank">Email</a>
 
 </div>
 
@@ -31,8 +31,8 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 
 - Data Analytics
 - Data Visualization
@@ -43,7 +43,7 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 
 ### Data Engineering
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
 
 - Data Engineering
 - Data Integration
@@ -55,7 +55,7 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 
 ### UI/UX Design
 
-![Figma](https://img.shields.io/badge/Figma-7B61FF?style=flat-square&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/Figma-7B61FF?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 
 - UI/UX Design
 - Wireframing
@@ -66,7 +66,7 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 
 ### Artificial Intelligence
 
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" alt="Replit">
 
 - Artificial Intelligence (AI)
 - Prompt Engineering
@@ -83,8 +83,11 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 
 *Exploring data, design, and AI to create practical digital solutions.*
 
+<br>
+
 <a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://www.behance.net/salmaowiwy">Behance</a>
+<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; · &nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=salma.awiwe@gmail.com" target="_blank">Email Me</a>
 
 </div>
