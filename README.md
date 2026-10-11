@@ -1,20 +1,6 @@
-<div align="center">
-
-<img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
-
-</div>
-
----
-
-## About Me
-
-I'm an IT graduate interested in **Data Analytics, Data Engineering, UI/UX Design, and Artificial Intelligence**.
-
-I enjoy working with data, creating interactive dashboards, designing user interfaces, and exploring AI-powered solutions through practical projects.
-
----
-
 ## Technical Skills
+
+<div align="center">
 
 <table>
 <tr>
@@ -65,16 +51,5 @@ I enjoy working with data, creating interactive dashboards, designing user inter
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; · &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=salma.awiwe@gmail.com" target="_blank">Email</a>
 
 </div>
