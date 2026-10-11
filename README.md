@@ -1,3 +1,28 @@
+<div align="center">
+
+<img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
+
+# Salma Awiwe
+
+### Data Analytics · Data Engineering · UI/UX Design · AI
+
+<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
+<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; · &nbsp;
+<a href="mailto:salma.awiwe@gmail.com">Email</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm an IT graduate interested in **Data Analytics, Data Engineering, UI/UX Design, and Artificial Intelligence**.
+
+I enjoy working with data, creating interactive dashboards, designing user interfaces, and exploring AI-powered solutions through practical projects.
+
+---
+
 ## Technical Skills
 
 <table>
@@ -19,11 +44,9 @@
 ### Data Engineering
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-32758A?style=flat-square&logoColor=white)
 
-- Data Integration
 - Data Engineering
+- Data Integration
 
 </td>
 </tr>
@@ -51,3 +74,17 @@
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+*Exploring data, design, and AI to create practical digital solutions.*
+
+<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
+<a href="https://www.behance.net/salmaowiwy">Behance</a>
+
+</div>
