@@ -1,18 +1,17 @@
- <div align="center">
+<div align="center">
 
 <img src="./github-banner.svg" width="100%" alt="Salma Awiwe">
 
-<br><br>
+# Salma Awiwe
 
-**IT Operations · Enterprise Systems · Data Analytics · Power BI**
+### IT · Data Analytics · UI/UX Design
 
-<br>
-
-<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; | &nbsp;
-<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; | &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=salma.awiwe@gmail.com">Email</a> &nbsp; | &nbsp;
-<a href="https://drive.google.com/drive/folders/1ShKPcmFX_qC6Ti8iMajwYIqiJ491EH3_?usp=sharing">CV</a>
+<p>
+<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; • &nbsp;
+<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; • &nbsp;
+<a href="mailto:salma.awiwe@gmail.com">Email</a>
+</p>
 
 </div>
 
@@ -20,243 +19,85 @@
 
 ## About Me
 
-IT graduate with practical experience in **enterprise systems, IT operations, application support, and data reporting** through training at Tabuk Pharmaceuticals, Saudi Aramco, and King Fahad Medical City.
+I'm an IT graduate interested in **Data Analytics, Enterprise Systems, UI/UX Design, and Artificial Intelligence**.
 
-My experience includes working with SAP ERP and the SFDA RSD system, developing Power BI dashboards, and supporting data collection and integration through the FURAS data engineering project.
+I enjoy exploring technology, working with data, designing user-friendly interfaces, and creating practical digital solutions.
 
-I am interested in opportunities across **IT Operations, Enterprise Systems, and Data Analytics**, while also exploring UI/UX design and AI-powered solutions through projects.
+My technical interests combine data visualization, business systems, user experience, and AI-powered applications.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Enterprise Systems & IT Support
+### Data Analytics & Reporting
 
-![SAP ERP](https://img.shields.io/badge/SAP_ERP-176F91?style=flat-square&logo=sap&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-173B7A?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+<img src="https://img.shields.io/badge/SQL_Server-214B73?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 
-![SFDA RSD](https://img.shields.io/badge/SFDA_RSD-214B73?style=flat-square&logoColor=white)
+### Enterprise Systems & IT
 
-![Windows](https://img.shields.io/badge/Windows_OS-0078D4?style=flat-square&logo=windows&logoColor=white)
+<img src="https://img.shields.io/badge/SAP_ERP-176F91?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ERP">
+<img src="https://img.shields.io/badge/SFDA_RSD-214B73?style=for-the-badge&logoColor=white" alt="SFDA RSD">
+<img src="https://img.shields.io/badge/Windows_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS">
 
-![ArcSight](https://img.shields.io/badge/ArcSight-526579?style=flat-square&logoColor=white)
+### Data Engineering
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Azure-286A9E?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+<img src="https://img.shields.io/badge/Databricks-6B3942?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Delta_Lake-32758A?style=for-the-badge&logoColor=white" alt="Delta Lake">
 
-</td>
-<td width="50%" valign="top">
+### UI/UX Design & AI
 
-### Data Analytics & Engineering
-
-![Power BI](https://img.shields.io/badge/Power_BI-173B7A?style=flat-square&logo=powerbi&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-214B73?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-286A9E?style=flat-square&logo=microsoftazure&logoColor=white)
-
-![Databricks](https://img.shields.io/badge/Databricks-6B3942?style=flat-square&logo=databricks&logoColor=white)
-
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-32758A?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### UI/UX & AI Projects
-
-![Figma](https://img.shields.io/badge/Figma-7B61FF?style=flat-square&logo=figma&logoColor=white)
-
-![UI UX Design](https://img.shields.io/badge/UI%2FUX_Design-514B73?style=flat-square&logoColor=white)
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-32758A?style=flat-square&logoColor=white)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-526579?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Figma-7B61FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/UI%2FUX_Design-514B73?style=for-the-badge&logoColor=white" alt="UI/UX Design">
+<img src="https://img.shields.io/badge/Generative_AI-32758A?style=for-the-badge&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/Prompt_Engineering-526579?style=for-the-badge&logoColor=white" alt="Prompt Engineering">
 
 ### Web Development
 
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
+<img src="https://img.shields.io/badge/ASP.NET-514B73?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
+<img src="https://img.shields.io/badge/JavaScript-806F19?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-8A4535?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-315D82?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-514B73?style=flat-square&logo=dotnet&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-806F19?style=flat-square&logo=javascript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-8A4535?style=flat-square&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-315D82?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Professional Experience
+## Core Skills
 
-### Tabuk Pharmaceuticals Manufacturing Company
-
-**Computer Systems Technician — Tamheer Trainee**  
-*December 2024 – June 2025 · Dammam*
-
-- Supported pharmaceutical inventory and dispatch operations using SAP ERP and the SFDA RSD system.
-- Updated inventory quantities, purchase orders, and package records.
-- Processed package acceptance and shipment-related operational tasks.
-- Checked data discrepancies and reported issues for resolution.
-
-**Key tools:** SAP ERP · SFDA RSD · Microsoft Outlook
-
-### Saudi Aramco — Berri Gas Plant
-
-**IT Support Trainee — Process Network & Systems Unit**  
-*June 2023 – August 2023 · Jubail*
-
-- Developed three dashboards and reports for the plant's access control system.
-- Installed Windows operating systems and configured user accounts.
-- Supported hardware setup and basic IT operations in an industrial environment.
-
-**Key tools:** Power BI · Windows Server 2019 · ArcSight
-
-### King Fahad Medical City
-
-**Web Developer Trainee**  
-*March 2023 – May 2023 · Riyadh*
-
-- Developed an ASP.NET web application integrated with Microsoft SQL Server.
-- Worked on data management, validation, and reporting functionality.
-
-**Key tools:** ASP.NET · C# · SQL Server · HTML · CSS
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### FURAS
-**Tender & RFP Opportunities**
-
-A Saudi tender intelligence platform that consolidates procurement data from multiple sources and identifies technology-related opportunities.
-
-**My Contributions**
-
-- Identified tender data sources and contributed to data collection using APIs and web scraping.
-- Uploaded raw data to the Azure Bronze layer.
-- Independently developed an interactive Power BI dashboard connected to Gold-layer data.
-- Created KPIs, filters, and visualizations for tender analysis.
-
-**Technologies:** Azure Databricks · Delta Lake · Power BI
-
-[View GitHub Projects →](https://github.com/salma2220?tab=projects)
-
-</td>
-<td width="50%" valign="top">
-
-### DataGap AI
-**Data Readiness Assistant**
-
-An AI-powered platform that evaluates data readiness, identifies data gaps, and provides recommendations to support data-driven decisions.
-
-**Achievement:** Second Place — KANZ AI Hackathon
-
-**Tools:** Replit · AI
-
-[View GitHub Projects →](https://github.com/salma2220?tab=projects)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Insight AI
-**AI & Security Prediction**
-
-Contributed to the UI/UX design and user flows for an AI-based stolen vehicle detection concept.
-
-**My Role:** UI/UX Design & System Flow Contributor
-
-**Tools:** Figma · Wireframing · User Flows
-
-[View Behance →](https://www.behance.net/salmaowiwy)
-
-</td>
-<td width="50%" valign="top">
-
-### Cultural Data Horizon
-**Cultural Data Visualization**
-
-Created interactive Power BI dashboards to map and analyze Saudi cultural heritage sites for the 94th National Day.
-
-**Focus:** Data Visualization · Data Analytics
-
-[View GitHub Projects →](https://github.com/salma2220?tab=projects)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Pearl of the East
-**Generative AI Content**
-
-Created AI-generated visual and video content showcasing the Eastern Province's pearl-diving heritage.
-
-**My Role:** Generative AI Content Creator
-
-[View Behance →](https://www.behance.net/salmaowiwy)
-
-</td>
-<td width="50%" valign="top">
-
-### KFMC Web Application
-**Web Development**
-
-Developed a web application using ASP.NET and Microsoft SQL Server to support data management and validation.
-
-**Technologies:** ASP.NET · C# · SQL Server
-
-</td>
-</tr>
-</table>
-
----
-
-## Education & Training
-
-- **Diploma in Programming and Web Development Technology** — Technical College, Al-Ahsa · 2023
-- **Data Engineering Bootcamp** — Saudi Digital Academy · August–October 2026
-- **Intensive English Language Program** — TVTC · October 2023–March 2024
-
----
-
-## Certifications
-
-- MCIT Junior Data Scientist — INE · March 2025
-- Certified Software Technician — Saudi Council of Engineers · October 2024
-- Fundamentals of Artificial Intelligence — SDAIA · August 2025
-- Information Security Essentials — SAP / Saudi Aramco · June 2023
-- IT Essentials: PC Hardware and Software — Cisco Networking Academy · May 2022
+<p>
+<img src="https://img.shields.io/badge/Data_Visualization-173B7A?style=flat-square" alt="Data Visualization">
+<img src="https://img.shields.io/badge/Data_Management-214B73?style=flat-square" alt="Data Management">
+<img src="https://img.shields.io/badge/Data_Integration-32758A?style=flat-square" alt="Data Integration">
+<img src="https://img.shields.io/badge/IT_Support-526579?style=flat-square" alt="IT Support">
+<img src="https://img.shields.io/badge/Wireframing-514B73?style=flat-square" alt="Wireframing">
+<img src="https://img.shields.io/badge/User_Flows-514B73?style=flat-square" alt="User Flows">
+<img src="https://img.shields.io/badge/Problem_Solving-26734D?style=flat-square" alt="Problem Solving">
+<img src="https://img.shields.io/badge/Teamwork-26734D?style=flat-square" alt="Teamwork">
+<img src="https://img.shields.io/badge/Attention_to_Detail-26734D?style=flat-square" alt="Attention to Detail">
+</p>
 
 ---
 
 <div align="center">
 
-## Let's Connect
+### Let's Connect
 
-**IT Operations · Enterprise Systems · Data Analytics**
+*Interested in technology, data, design, and meaningful digital solutions.*
 
 <br>
 
-<a href="https://salma2220.github.io/salma-portfolio-new/">Portfolio</a> &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/salma-awiwe">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://www.behance.net/salmaowiwy">Behance</a> &nbsp; · &nbsp;
-<a href="mailto:salma.awiwe@gmail.com">Email</a>
+<a href="https://salma2220.github.io/salma-portfolio-new/">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-173B7A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/salma-awiwe">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
